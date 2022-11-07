@@ -2,7 +2,7 @@
 
 Desafio 4/7 do #7DaysOfCode de HTML e CSS da Alura.
 
-A ideia desse Desafio era dar continuidade no prjeto de referência ao desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho", utilizando somente HTML e CSS.
+A ideia desse Desafio era dar continuidade no projeto de referência ao desenvolver uma seção de vagas com chamada e imagem de divulgação, utilizando somente HTML e CSS.
 
 Arquivo de referência do Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1
 
